@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ORG filedate="01.07.2018" name="Обслуговуючий кооператив &quot;Золота Ера XXI&quot;" inn="" filetype="calculations" version="3" kpp="" bank="ПАТ &quot;ПІВДЕННИЙ&quot;, м. Одеса" rs="26006010004695" ks="32000100400         " bik="328209">
+	<PersAcc kod_ls="HR0EU7MT6MV6MN5L" login="" password="" AddressCity="" AddressDistrict="Комінтернівський район, с. Крижанівка" AddressFlat="2" FlatAbbr="" AddressHouse="3/5" AddressRegion="" AddressSettlement="" AddressStreet="вул. Миколаївська" Barcode="" commonarea="41,4" debtbeg="696,2" debtend="1 043,85" debtprev="0" prepayment="0" sumtopay="347,65" lastPaymentDate="" email="" habarea="15,7" name="Кривсун Валентина Григорьевна" name_ls="05002" people="0" num_of_reg="0">
+		<meter value_count="1" kod="000000504" name="7225946/Горячая вода" service="Горячее водоснабжение по приборам учета" date_indiccur="30.06.2018 23:59:59" indiccur1="0"/>
+		<meter value_count="1" kod="000000483" name="7296971/Холодная вода" service="Холодное водоснабжение по приборам учета" date_indiccur="30.06.2018 23:59:59" indiccur1="1"/>
+		<meter value_count="1" kod="000000640" name="0579.01271814/Электроэнергия" service="Электроэнергия" date_indiccur="30.06.2018 23:59:59" indiccur1="123"/>
+	</PersAcc>
+	<PersAcc kod_ls="7WA7XM5TI0RD0XH3" login="" password="" AddressCity="" AddressDistrict="Комінтернівський район, с. Крижанівка" AddressFlat="1" FlatAbbr="" AddressHouse="3/5" AddressRegion="" AddressSettlement="" AddressStreet="вул. Миколаївська" Barcode="" commonarea="72,4" debtbeg="5 725,96" debtend="411,23" debtprev="0" prepayment="0" sumtopay="411,23" lastPaymentDate="05.07.2018" email="" habarea="34,2" name="Копенский Владислав Павлович" name_ls="05001" people="0" num_of_reg="0">
+		<item ammount="0" correction="0" edizm="м2" kod="PH7YC5XD0SB7RJ6N" name="СДТП для 1-х этажей" norm="0" peni="0" sum="0" sumpayed="1 164,2" compensation="0" sumtopay="0" debtbeg="0" debtend="0" tarif1="4,02"/>
+		<item ammount="0" correction="0" edizm="м3" kod="HU9LX2DS4DR6CX7A" name="Горячее водоснабжение по приборам учета" norm="0" peni="0" sum="0" sumpayed="497,02" compensation="0" sumtopay="0" debtbeg="0" debtend="0" tarif1="16,128"/>
+		<item ammount="0" correction="0" edizm="м3" kod="M1XK7ZI8WC8QI4ZD" name="Холодное водоснабжение по приборам учета" norm="0" peni="0" sum="0" sumpayed="225,79" compensation="0" sumtopay="0" debtbeg="0" debtend="0" tarif1="16,128"/>
+		<item ammount="0" correction="0" edizm="м2" kod="N3CN8FS2JR0AS8GP" name="Вывоз ТБО" norm="0" peni="0" sum="0" sumpayed="46,32" compensation="0" sumtopay="0" debtbeg="0" debtend="0" tarif1="0,16"/>
+		<item ammount="0" correction="0" edizm="кВт" kod="2IV3MP6JT7DP7GT3" name="Электроэнергия" norm="0" peni="0" sum="0" sumpayed="1 260,48" compensation="0" sumtopay="0" debtbeg="0" debtend="0" tarif1="0"/>
+		<item ammount="0" correction="0" edizm="м2" kod="V6EY8BY4DQ7EU0FX" name="Отопление" norm="0" peni="0" sum="0" sumpayed="2 097,75" compensation="0" sumtopay="0" debtbeg="0" debtend="0" tarif1="0"/>
+		<item ammount="0" correction="0" edizm="м2" kod="M8NK2WM5ZB4PD7QC" name="Охрана и видеонаблюдение" norm="0" peni="0" sum="0" sumpayed="335,92" compensation="0" sumtopay="0" debtbeg="0" debtend="0" tarif1="1,16"/>
+		<item ammount="0" correction="0" edizm="м2" kod="1WD3TK1WJ1NF5NM7" name="Услуги садовника" norm="0" peni="0" sum="0" sumpayed="98,48" compensation="0" sumtopay="0" debtbeg="0" debtend="0" tarif1="0,34"/>
+		<meter value_count="1" kod="000000503" name="7225866/Горячая вода" service="Горячее водоснабжение по приборам учета" date_indiccur="30.06.2018 23:59:59" indiccur1="31"/>
+		<meter value_count="1" kod="000000482" name="7298607/Холодная вода" service="Холодное водоснабжение по приборам учета" date_indiccur="30.06.2018 23:59:59" indiccur1="42"/>
+		<meter value_count="1" kod="000000630" name="0579.01271846/Электроэнергия" service="Электроэнергия" date_indiccur="30.06.2018 23:59:59" indiccur1="4 113"/>
+	</PersAcc>
+</ORG>
